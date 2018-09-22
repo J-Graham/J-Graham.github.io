@@ -6,7 +6,7 @@
 name: John Graham
 
 # Short bio or description (displayed in the header)
-description: Full Stack Web Developer from the Philadelphia area.  Specializing in .NET, Angular and SQL Server
+description: Philadelphia area .NET, Angular and SQL Server dev.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/8256723?s=460&v=4
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-126254229-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
