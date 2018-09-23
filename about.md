@@ -12,5 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[Twitter](https://twitter.com/JohnGrahamDev) . 
+[Twitter](https://twitter.com/JohnGrahamDev)  
 [johngrhm@gmail.com](mailto:johngrhm@gmail.com)
