@@ -39,6 +39,8 @@ We run the 2 processes again and find that the `$Env:Processor_Architecture` is 
 
 Here is a screen shot of the actual project settings:
 
+![settings-image](/assets/project-settings.png)
+
 I was a bit confused because the Stack Overflow post states that "Any CPU" should default to what's most compatible and to me that meant x64.  Later we learned that there is another setting in the image that is impacting our scenario, and that's the "Prefer 32-bit" checkbox.  That was forcing this to run as an x86 on a 64 bit system.  We unchecked that setting and now updates were working on both 32 bit systems and 64 bit systems.
 
 ### Takeaways
