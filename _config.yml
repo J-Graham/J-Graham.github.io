@@ -6,7 +6,7 @@
 name: John Graham
 
 # Short bio or description (displayed in the header)
-description: Philadelphia area .NET, Angular and SQL Server dev.
+description: Director of Software Engineering at Miles Technologies.  Philadelphia area Angular and .NET developer.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/8256723?s=460&v=4
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: johngrahamdev
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: "users/5997923/john-graham"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
