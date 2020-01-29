@@ -6,10 +6,6 @@ permalink: /about/
 
 Hello!  I'm a self taught software developer with experience in the .NET and Angular ecosystems.  I'm a big fan of attending tech conferences and discussing technology.  If you ever have any questions feel free to ask on [twitter](https://twitter.com/JohnGrahamDev).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
 [Twitter](https://twitter.com/JohnGrahamDev)  
