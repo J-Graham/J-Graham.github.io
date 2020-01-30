@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Native Problem, Web Brain: How to Fix a Problem When You Don’t Understand It
+title: Native Problem, web brain. How to Fix a Problem When You Don’t Understand It's Core
 ---
 
 # A philosophical dilemma on the limits of learning, and why you don’t need to know it all to start problem-solving.
