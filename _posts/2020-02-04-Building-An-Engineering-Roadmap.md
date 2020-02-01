@@ -47,10 +47,15 @@ We filled a few whiteboards.
 Ultimately the team came up with a lot of great ideas.  I took these ideas back and ran them through my own value system.
 
 The value system I use is:
+
 5 - nice to have
+
 4 - important but not urgent
+
 3 - Efficiency gains once completed
+
 2 - immediate issues resulting from not having this
+
 1 - important and urgent
 
 This helps me to prioritize the goals and creates an easy to convey importance scale for less technical decision makers.  Now that I have my goals and my values for each it's time to create the Roadmap.
