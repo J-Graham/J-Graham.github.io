@@ -116,3 +116,5 @@ I would strongly recommend that if you are involved in the technical vision for 
 If you are like me and you can't always organize or convey your intentions, write them down.
 
 Meet with your team, get their feedback, and organize it all into a cohesive view, most importantly **share it**.  You'll be surprised how much you stick to something when you put a commitment in writing and make it public. It helps you stay lean, deprioritize the things that don't matter, and deliver on the things that do.
+
+#### [Discuss this on Changelog News](https://changelog.com/news/how-i-created-an-engineering-roadmap-Qoae)
