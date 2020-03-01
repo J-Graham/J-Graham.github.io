@@ -40,7 +40,7 @@ I had a few goals with the Roadmap:
 1. Make planning and workload easier to time box and understand when things are ahead or behind.
 1. Collaborate with other teams and the business needs to prioritize value over cool factor.
 
-The first Roadmap started with a half day meeting with the whole NGIN team followed by a team lunch.  We set a goal to ignore our current a previous restrictions and decide how we want our technology to look 1 year from that meeting.  I set the stage with some questions to help engage the team in thinking and they took it from there.  Luckily we already had a great group of people that were forward thinking.
+The first Roadmap started with a half day meeting with the whole NGIN team followed by a team lunch.  We set a goal to ignore our current and previous restrictions and decide how we want our technology to look 1 year from that meeting.  I set the stage with some questions to help engage the team in thinking and they took it from there.  Luckily we already had a great group of people that were forward thinking.
 
 We filled a few whiteboards.
 
